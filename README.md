@@ -1,6 +1,6 @@
-To-Do List
+Just Do It
 
-The To-Do List project is a web application designed to help users efficiently manage and organize their tasks. This application provides a simple yet powerful interface for users to create, update, and track their daily tasks, ensuring better productivity and task management.
+Just do it is a web application designed to help users efficiently manage and organize their tasks. This application provides a simple yet powerful interface for users to create, update, and track their daily tasks, ensuring better productivity and task management.
 
 Features
 Task Management: Add, edit, and delete tasks with ease.
@@ -14,4 +14,4 @@ CSS: Styling the application for a clean and responsive design.
 JavaScript: Implementing interactivity and dynamic task management features.
 
 
-Take a look at live version: https://varunshuklaa.github.io/To_do_list/
+Take a look at live version: https://varunshuklaa.github.io/Just-Do-It/
