@@ -14,4 +14,4 @@ CSS: Styling the application for a clean and responsive design.
 JavaScript: Implementing interactivity and dynamic task management features.
 
 
-Take a look at live version: [https://varunshuklaa.github.io/Just-Do-It/](https://just-do-it-tau.vercel.app/)
+Take a look at live version: https://just-do-it-tau.vercel.app/
